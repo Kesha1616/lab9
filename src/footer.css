@@ -1,0 +1,55 @@
+.back{
+    position: absolute;
+    width: 1900px;
+    height: 300px;
+    left: 10px;
+    top: 2919.4px;;
+    opacity: 0.5;
+    background-color: silver;
+    border-radius: 70px;
+}
+.support{
+    position: absolute;
+    color: black;
+    left: 555px;
+    width: 600px;
+    font-size: 35px;
+    top: 3040px;
+}
+.number{
+    position: absolute;
+    color: black;
+    left: 955px;
+    width: 600px;
+    font-size: 35px;
+    top: 3040px;
+}
+.vk{
+    position: absolute;
+    top: 3100px;
+    width: 60px;
+    height: 60px;
+    left: 555px;
+}
+.insta{
+    position: absolute;
+    top: 3100px;
+    width: 60px;
+    height: 60px;
+    left: 615px;
+}
+.whats{
+    position: absolute;
+    top: 3100px;
+    width: 60px;
+    height: 60px;
+    left: 675px;
+}
+.email{
+    position: absolute;
+    color: black;
+    left: 955px;
+    width: 600px;
+    font-size: 35px;
+    top: 3100px; 
+}

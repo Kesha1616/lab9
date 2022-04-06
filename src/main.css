@@ -1,0 +1,155 @@
+.bike{
+    position: absolute;
+    left: 10px;
+    top: 1850px;
+    border-radius: 100px;
+    opacity: 0.6;
+}
+.text{
+    position: absolute;
+    color: black;
+    left: 815px;
+    width: 600px;
+    font-size: 50px;
+    top: 1880px;
+}
+.tarif{
+    position: absolute;
+    left: 1030px;
+    top: 1885px;
+}
+.regtangle{
+    position: absolute;
+    width: 1300px;
+    height: 860px;
+    left: 300px;
+    top: 1985px;;
+    opacity: 0.8;
+    border: 10px solid black;
+    box-sizing: border-box;
+    border-radius: 100px;
+}
+.abon1{
+    position: absolute;
+    color: black;
+    left: 415px;
+    width: 600px;
+    font-size: 28px;
+    top: 2080px;
+}
+.abon2{
+    position: absolute;
+    color: black;
+    left: 415px;
+    width: 600px;
+    font-size: 28px;
+    top: 2200px;
+}
+.abon3{
+    position: absolute;
+    color: black;
+    left: 415px;
+    width: 600px;
+    font-size: 25px;
+    top: 2320px; 
+}
+.abon4{
+    position: absolute;
+    color: black;
+    left: 415px;
+    width: 600px;
+    font-size: 25px;
+    top: 2380px;
+}
+.abon5{
+    position: absolute;
+    color: black;
+    left: 415px;
+    width: 600px;
+    font-size: 25px;
+    top: 2460px;
+}
+.abon6{
+    position: absolute;
+    color: black;
+    left: 415px;
+    width: 600px;
+    font-size: 25px;
+    top: 2520px;
+}
+.abon7{
+    position: absolute;
+    color: black;
+    left: 415px;
+    width: 500px;
+    font-size: 28px;
+    top: 2670px;
+}
+.line1{
+    position: absolute;
+    left: 415px;
+    top: 2085px;
+    font-size: 50px;
+    color: rgb(24, 126, 167);
+}
+.line2{
+    position: absolute;
+    left: 415px;
+    top: 2205px;
+    font-size: 50px;
+    color: rgb(24, 126, 167);
+}
+.line3{
+    position: absolute;
+    left: 415px;
+    top: 2560px;
+    font-size: 50px;
+    color: rgb(24, 126, 167);
+}
+.line4{
+    position: absolute;
+    left: 415px;
+    top: 2710px;
+    font-size: 50px;
+    color: rgb(24, 126, 167);
+}
+.price{
+    position: absolute;
+    color: black;
+    left: 1175px;
+    width: 300px;
+    font-size: 30px;
+    top: 2050px;
+}
+.price1{
+    position: absolute;
+    color: black;
+    left: 1175px;
+    width: 300px;
+    font-size: 33px;
+    top: 2200px;
+}
+.price2{
+    position: absolute;
+    color: black;
+    left: 1175px;
+    width: 300px;
+    font-size: 32px;
+    top: 2400px;
+}
+.price3{
+    position: absolute;
+    color: black;
+    left: 1175px;
+    width: 300px;
+    font-size: 30px;
+    top: 2450px;
+}
+.price4{
+    position: absolute;
+    color: black;
+    left: 1175px;
+    width: 300px;
+    font-size: 35px;
+    top: 2680px;
+}

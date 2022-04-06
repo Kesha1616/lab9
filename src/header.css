@@ -1,0 +1,10 @@
+.Header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    }
+.textmain{
+    color: black;
+    margin: 10px;
+    font-size: 25px;
+}

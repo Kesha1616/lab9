@@ -1,0 +1,69 @@
+.photo{
+    position: absolute;
+    left: 700px;
+    top: 100px;
+    border-radius: 100px;
+}
+.textfirst{
+    position: absolute;
+    color: green;
+    left: 170px;
+    width: 600px;
+    font-size: 28px;
+    top: 230px;
+}
+.textsecond{
+    position: absolute;
+    color: green;
+    left: 186px;
+    width: 600px;
+    font-size: 28px;
+    top: 270px; 
+}
+.text1{
+    position: absolute;
+    color: green;
+    left: 1320px;
+    width: 600px;
+    font-size: 23px;
+    top: 200px; 
+}
+.text2{
+    position: absolute;
+    color: green;
+    left: 1323px;
+    width: 600px;
+    font-size: 23px;
+    top: 230px;
+}
+.text3{
+    position: absolute;
+    color: green;
+    left: 1383px;
+    width: 600px;
+    font-size: 23px;
+    top: 260px;
+}
+.text4{
+    position: absolute;
+    color: green;
+    left: 1497px;
+    width: 600px;
+    font-size: 23px;
+    top: 290px;
+}
+.photo1{
+    position: absolute;
+    left: 635px;
+    top: 500px;
+}
+.photo2{
+    position: absolute;
+    left: 635px;
+    top: 900px;
+}
+.photo3{
+    position: absolute;
+    left: 635px;
+    top: 1300px;
+}
