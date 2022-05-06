@@ -1,0 +1,8 @@
+.main{
+    background-color: aquamarine;
+    position: absolute;
+    width: 1900px;
+    height: 1750px;
+    opacity: 0.5;
+    border-radius: 70px;
+}

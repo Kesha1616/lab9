@@ -52,18 +52,227 @@
     font-size: 23px;
     top: 290px;
 }
-.photo1{
+.iconbike{
     position: absolute;
-    left: 635px;
+    left: 840px;
+    top: 500px;   
+}
+.text11{
+    position: absolute;
+    color: yellowgreen;
     top: 500px;
+    left: 920px;
 }
-.photo2{
+.icon1{
     position: absolute;
-    left: 635px;
-    top: 900px;
+    top: 600px;
+    left: 600px;
 }
-.photo3{
+.text111{
     position: absolute;
-    left: 635px;
-    top: 1300px;
+    width: 200px;
+    top: 750px;
+    left: 600px;
+    font-size: 20px;
+    color: green;
+}
+.text112{
+    position: absolute;
+    width: 200px;
+    top: 750px;
+    left: 810px;
+    font-size: 20px;
+    color: green;
+}
+.text113{
+    position: absolute;
+    width: 200px;
+    top: 750px;
+    left: 1050px;
+    font-size: 20px;
+    color: green;
+}
+.text114{
+    position: absolute;
+    width: 200px;
+    top: 750px;
+    left: 1230px;
+    font-size: 20px;
+    color: green;
+}
+.iconmobile{
+    position: absolute;
+    left: 850px;
+    top: 880px;   
+}
+.text12{
+    position: absolute;
+    color: yellowgreen;
+    top: 880px;
+    left: 920px;
+}
+.icon2{
+    position: absolute;
+    top: 980px;
+    left: 620px;
+}
+.text121{
+    position: absolute;
+    width: 200px;
+    top: 1130px;
+    left: 620px;
+    font-size: 20px;
+    color: green;
+}
+.text122{
+    position: absolute;
+    width: 200px;
+    top: 1130px;
+    left: 820px;
+    font-size: 20px;
+    color: green;
+}
+.text123{
+    position: absolute;
+    width: 200px;
+    top: 1130px;
+    left: 1035px;
+    font-size: 20px;
+    color: green;
+}
+.text124{
+    position: absolute;
+    width: 200px;
+    top: 1130px;
+    left: 1230px;
+    font-size: 20px;
+    color: green;
+}
+.iconparking{
+    position: absolute;
+    left: 730px;
+    top: 1250px;   
+}
+.text13{
+    position: absolute;
+    color: yellowgreen;
+    top: 1290px;
+    left: 920px;
+}
+.icon3{
+    position: absolute;
+    top: 1390px;
+    left: 640px;
+}
+.text131{
+    position: absolute;
+    width: 200px;
+    top: 1590px;
+    left: 660px;
+    font-size: 23px;
+    color: green;
+}
+.text132{
+    position: absolute;
+    width: 200px;
+    top: 1590px;
+    left: 940px;
+    font-size: 23px;
+    color: green;
+}
+.text133{
+    position: absolute;
+    width: 200px;
+    top: 1590px;
+    left: 1225px;
+    font-size: 23px;
+    color: green;
+}
+.text125{
+    position: absolute;
+    width: 200px;
+    top: 1070px;
+    left: 720px;
+    font-size: 40px;
+    color: blue;
+}
+.text126{
+    position: absolute;
+    width: 200px;
+    top: 1070px;
+    left: 920px;
+    font-size: 40px;
+    color: blue;
+}
+.text127{
+    position: absolute;
+    width: 200px;
+    top: 1070px;
+    left: 1120px;
+    font-size: 40px;
+    color: blue;
+}
+.text128{
+    position: absolute;
+    width: 200px;
+    top: 1070px;
+    left: 1320px;
+    font-size: 40px;
+    color: blue;
+}
+.text115{
+    position: absolute;
+    width: 200px;
+    top: 680px;
+    left: 690px;
+    font-size: 40px;
+    color: blue;
+}
+.text116{
+    position: absolute;
+    width: 200px;
+    top: 680px;
+    left: 900px;
+    font-size: 40px;
+    color: blue;
+}
+.text117{
+    position: absolute;
+    width: 200px;
+    top: 680px;
+    left: 1110px;
+    font-size: 40px;
+    color: blue;
+}
+.text118{
+    position: absolute;
+    width: 200px;
+    top: 680px;
+    left: 1310px;
+    font-size: 40px;
+    color: blue;
+}
+.text135{
+    position: absolute;
+    width: 200px;
+    top: 1480px;
+    left: 740px;
+    font-size: 50px;
+    color: blue;
+}
+.text136{
+    position: absolute;
+    width: 200px;
+    top: 1480px;
+    left: 1010px;
+    font-size: 50px;
+    color: blue;
+}
+.text137{
+    position: absolute;
+    width: 200px;
+    top: 1480px;
+    left: 1300px;
+    font-size: 50px;
+    color: blue;
 }
